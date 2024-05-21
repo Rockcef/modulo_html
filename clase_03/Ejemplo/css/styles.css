@@ -1,0 +1,27 @@
+*{
+    font-family: Arial;
+}
+
+p, span{
+    text-transform: uppercase;
+}
+
+.parrafo-destacado{
+    text-decoration: underline;
+    font-style: italic;
+    color: purple;
+    font-weight: bold;
+    background: yellow;
+}
+
+#main-heading{
+    font-size: 3rem;
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: peru;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
